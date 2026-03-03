@@ -51,17 +51,20 @@ Scalable Websites • eCommerce Systems • Custom Web Applications • Infrastr
 <h2 align="center">🔗 GitHub Projects</h2>
 
 <p align="center">
-  <a href="https://github.com/MrShadowRIFAT/erp-system">
-    <img src="https://img.shields.io/badge/🔒_Enterprise_ERP_System-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  
+  <a href="https://rifat.is-a.dev/">
+    <img src="https://img.shields.io/badge/Alt_Portofolio-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/MrShadowRIFAT/mosque-display-system">
-    <img src="https://img.shields.io/badge/🔒_Mosque_Display_System-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="https://p1-horizontal-personal-next-js-port.vercel.app/">
+    <img src="https://img.shields.io/badge/P1_Next.js Portfolio-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/MrShadowRIFAT/ecommerce-platform">
-    <img src="https://img.shields.io/badge/🔒_Ecommerce_Platform-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="https://mrshadowrifat.github.io/P2.Personal-HTML-portfolio">
+    <img src="https://img.shields.io/badge/P2_HTML Portfolio-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+    <a href="https://personal-react3js-mrshadowrifat.vercel.app/">
+    <img src="https://img.shields.io/badge/P3_3D React Portfolio-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  
 </p>
 
 ---
