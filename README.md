@@ -1,44 +1,81 @@
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
-<h1 align="center">Hi 👋, I'm RIFAT (aka MrShadowRIFAT)</h1>
-<h3 align="center">A passionate Web developer from Bangladesh</h3>
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=MrShadowRIFAT&label=Profile%20views&color=0e75b6&style=flat" alt="MrShadowRIFAT" /> </p>
+<h1 align="center">👋 Hi, I'm RIFAT (aka MrShadowRIFAT)</h1>
 
-- 🔭 I’m currently working on **Laravel Websites**
-- 👯 I’m looking to collaborate on **any web projects**
-- 🌱 I’m currently learning **Android Engineering and other Courses**
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&size=28&duration=3500&color=F5F5F5&lines=Full-Stack+Web+Developer;Digital+Systems+Specialist;Infrastructure+Engineer" />
+</p>
 
-- 📫 How to reach me **contact@rifat.website**
-- 👨‍💻 All of my projects are available at **https://rifat.website/projects/**
-- 📝 I regularly write articles on **https://rifat.website/blog/**
-- 📄 Know about my experiences **https://rifat.website/**
-- ⚡ Fun fact **I am Jack of all Trades**
+<p align="center">
+Scalable Websites • eCommerce Systems • Custom Web Applications • Infrastructure
+</p>
 
-<div> <a href="https://twitter.com/MrShadowRIFAT" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/MrShadowRIFAT" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://github.com/MrShadowRIFAT" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-<a href="https://instagram.com/MrShadowRIFAT" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:contact@rifat.website"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div><h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/MrShadowRIFAT" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="MrShadowRIFAT" height="30" width="40" /></a><a href="https://linkedin.com/in/MrShadowRIFAT" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="MrShadowRIFAT" height="30" width="40" /></a><a href="https://fb.com/MrShadowRIFAT" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/facebook.svg" alt="MrShadowRIFAT" height="30" width="40" /></a><a href="https://www.youtube.com/c/MrShadowRIFAT" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/youtube.svg" alt="MrShadowRIFAT" height="30" width="40" /></a><a href="https://discord.gg/dEKGDzBzr5" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/discord.svg" alt="dEKGDzBzr5" height="30" width="40" /></a><a href="https://stackoverflow.com/users/19703838" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/stack-overflow.svg" alt="19703838" height="30" width="40" /></a><a href="https://instagram.com/MrShadowRIFAT" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="MrShadowRIFAT" height="30" width="40" /></a></p>
+<br>
 
-<h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrShadowRIFAT&layout=compact&theme=transparent" alt=MrShadowRIFAT />
-
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MrShadowRIFAT&theme=transparent" alt="MrShadowRIFAT" /></p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
-<a href="https://github.com/MrShadowRIFAT">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MrShadowRIFAT&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MrShadowRIFAT&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MrShadowRIFAT&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MrShadowRIFAT&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MrShadowRIFAT&theme=github_dark" height="180em" />
+
+  <a href="https://rifat.website" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=google-chrome&logoColor=white" height="45"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/mrshadowrifat/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40"/>
+  </a>
+
+  <a href="https://discord.com/users/943867941882040371" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="40"/>
+  </a>
+
+  <a href="https://www.facebook.com/MrShadowRIFAT" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="40"/>
+  </a>
+
+  <a href="https://www.youtube.com/@MrShadowRIFAT" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="40"/>
+  </a>
+
+  <a href="mailto:contact@rifat.website">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40"/>
+  </a>
+
 </div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=MrShadowRIFAT&theme=github-compact"/>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MrShadowRIFAT&theme=discord" alt="MrShadowRIFAT" /></a> </p>
+---
 
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+<h2 align="center">Tech Stack</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=wordpress,php,laravel,python,html,tailwind,mysql" height="45"/>
+</p>
+
+---
+
+<h2 align="center">🔗 GitHub Projects</h2>
+
+<p align="center">
+  <a href="https://github.com/MrShadowRIFAT/erp-system">
+    <img src="https://img.shields.io/badge/🔒_Enterprise_ERP_System-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/MrShadowRIFAT/mosque-display-system">
+    <img src="https://img.shields.io/badge/🔒_Mosque_Display_System-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/MrShadowRIFAT/ecommerce-platform">
+    <img src="https://img.shields.io/badge/🔒_Ecommerce_Platform-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=MrShadowRIFAT&theme=transparent&hide_border=false" />
+</p>
+
+<picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MrShadowRIFAT/MrShadowRIFAT/output/pacman-contribution-graph-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MrShadowRIFAT/MrShadowRIFAT/output/pacman-contribution-graph.svg"> <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MrShadowRIFAT/MrShadowRIFAT/output/pacman-contribution-graph.svg"> </picture>
+
+<br>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
