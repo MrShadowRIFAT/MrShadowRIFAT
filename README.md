@@ -72,8 +72,10 @@ Scalable Websites • eCommerce Systems • Custom Web Applications • Infrastr
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=MrShadowRIFAT&theme=transparent&hide_border=false" />
+    <img src="https://nirzak-streak-stats.vercel.app/?user=MrShadowRIFAT&theme=transparent&hide_border=false" />
 </p>
+
+
 
 <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MrShadowRIFAT/MrShadowRIFAT/output/pacman-contribution-graph-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MrShadowRIFAT/MrShadowRIFAT/output/pacman-contribution-graph.svg"> <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MrShadowRIFAT/MrShadowRIFAT/output/pacman-contribution-graph.svg"> </picture>
 
@@ -81,4 +83,10 @@ Scalable Websites • eCommerce Systems • Custom Web Applications • Infrastr
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/mrshadowrifat">
+    <img src="https://github-profile-trophy.vercel.app/?username=MrShadowRIFAT&theme=aura&no-frame=true&no-bg=true&column=-1&rank=-C,-B" alt="trophy" />
+  </a>
 </p>
