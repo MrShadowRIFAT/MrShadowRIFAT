@@ -12,7 +12,7 @@ Scalable Websites • eCommerce Systems • Custom Web Applications • Infrastr
 
 <div align="center">
 
-  <a href="https://rifat.website" target="_blank">
+  <a href="https://rifatweb.link" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=google-chrome&logoColor=white" height="45"/>
   </a>
 
@@ -69,7 +69,7 @@ Scalable Websites • eCommerce Systems • Custom Web Applications • Infrastr
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-    <img src="https://nirzak-streak-stats.vercel.app/?user=MrShadowRIFAT&theme=transparent&hide_border=false" />
+    ![GitHub Stats Card](https://ghstats.dev/api/card?username=MrShadowRIFAT&custom_title=.&size=compact&show_emoji=true)
 </p>
 
 
