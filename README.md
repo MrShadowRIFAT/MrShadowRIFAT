@@ -79,9 +79,9 @@ Scalable Websites • eCommerce Systems • Custom Web Applications • Infrastr
 <br>
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+  <img src="https://ghstats.dev/api/sparkline?username=MrShadowRIFAT&days=30&width=320&height=80&hide_border=true" alt="Contribution Sparkline" />
 </p>
 
 <p align="center">
-  <img src="https://ghstats.dev/api/sparkline?username=MrShadowRIFAT&days=30&width=320&height=80&hide_border=true" alt="Contribution Sparkline" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
