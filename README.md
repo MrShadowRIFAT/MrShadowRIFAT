@@ -83,7 +83,5 @@ Scalable Websites • eCommerce Systems • Custom Web Applications • Infrastr
 </p>
 
 <p align="center">
-  <a href="https://github.com/mrshadowrifat">
-    <img src="https://github-profile-trophy-reiyua-mirror.vercel.app/?username=MrShadowRIFAT&theme=aura&no-frame=true&no-bg=true&column=-1&rank=-C,-B" alt="trophy" />
-  </a>
+  <img src="https://ghstats.dev/api/sparkline?username=MrShadowRIFAT&days=30&width=320&height=80&hide_border=true" alt="Contribution Sparkline" />
 </p>
