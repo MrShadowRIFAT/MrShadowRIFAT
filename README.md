@@ -69,7 +69,7 @@ Scalable Websites • eCommerce Systems • Custom Web Applications • Infrastr
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-   <img src="https://ghstats.dev/api/card?username=MrShadowRIFAT&custom_title=.&size=compact&show_emoji=true" alt="GitHub Stats Card" />
+   <img src="https://ghstats.dev/api/card?username=MrShadowRIFAT&hide_border=true&hide_title=true&border_radius=0&size=compact&show_emoji=true" alt="GitHub Stats Card" />
 </p>
 
 
